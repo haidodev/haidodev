@@ -1,29 +1,27 @@
 # Hi, I'm Hai Do
 
-I'm an **M2 student in the MVA (Mathématiques, Vision, Apprentissage) program at ENS Paris-Saclay**, with research interests in **computer vision, representation learning, continual learning, and open-world learning**.
+I am an **M2 student in the MVA (Mathématiques, Vision, Apprentissage) program at ENS Paris-Saclay**, with a particular interest in **distributed and efficient machine learning**.
 
-My current goal is to better understand how visual representations can remain useful when models encounter **distribution shifts, evolving data, and previously unseen categories**.
+I am especially interested in how distributed optimization and large-scale computing techniques can enable the efficient training and adaptation of modern representation-learning models, particularly in **computer vision and NLP**.
 
 ## Research Interests
 
-- Computer Vision
+- Distributed and Efficient Machine Learning
+- Distributed Optimization for Large-Scale Learning
 - Representation Learning
-- Continual Learning
-- Open-World / Category Discovery
-- Multimodal Learning
-- Retrieval and Visual-Language Models
+- Computer Vision and Vision-Language Models
 
 ## Current Focus
 
-I am currently studying at **ENS Paris-Saclay – MVA**, with coursework including:
+I am currently studying in the **MVA (Mathématiques, Vision, Apprentissage) program at ENS Paris-Saclay**, with relevant coursework including:
 
 - Object Recognition and Computer Vision
-- Probabilistic Graphical Models and Deep Generative Models
+- Foundations of Large Language Models
+- Advanced learning for text and graph data ALTEGRAD
+- Foundations of Distributed and Large-Scale Computing Optimization
 - Convex Optimization
-- Optimal Transport for Machine Learning
-
-Alongside coursework, I am particularly interested in research problems involving **visual representation learning, category discovery, distribution shift, and learning from limited supervision**.
-
+- Probabilistic Graphical Models and Deep Generative Models
+  
 ## Research Experience
 
 ### Grenoble INP / Université Grenoble Alpes — G-SCOP
@@ -31,7 +29,6 @@ Alongside coursework, I am particularly interested in research problems involvin
 
 Worked on document understanding and table-structure recognition for technical documents.
 
-- Implemented and evaluated deep-learning approaches for table structure recognition.
 - Developed a structure-aware extraction pipeline combining document layout with embedded textual information.
 - Worked on research prototyping, experimental evaluation, and analysis of model behavior.
 
@@ -68,15 +65,11 @@ arXiv:2512.12938 [cs.IR]
 
 `Weights & Biases` · `TensorBoard` · `Jupyter` · `Git` · `Linux` · `Docker`
 
-## What I'm Looking For
+## Algorithms and Problem Solving
 
-I am currently interested in **research internships and PhD opportunities** in computer vision and machine learning, particularly around:
+I enjoy algorithmic problem solving and regularly practice data structures and algorithms. I have solved **890+ problems on LeetCode**, including **560+ Medium** and **80+ Hard** problems.
 
-- representation learning,
-- continual and open-world learning,
-- category discovery,
-- robust visual recognition,
-- and learning under distribution shift.
+[LeetCode Profile](https://leetcode.com/u/o_hong/)
 
 ## Contact
 
